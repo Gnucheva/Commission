@@ -1,7 +1,5 @@
 package ru.netology
 
-import java.util.Collections.max
-
 fun main() {
 
     val transfer: Int = 5_000_000
