@@ -15,7 +15,7 @@ class MainKtTest {
             monthSum = monthTransfer,
             transferAmount = sum
         )
-        assertEquals(375, result)
+        assertEquals(0, result)
     }
 
     @Test
